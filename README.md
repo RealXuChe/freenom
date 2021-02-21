@@ -266,7 +266,7 @@ $ cd /data/wwwroot/freenom/ && php run
 
 （注：你只用关注上面表格中的必须项，非必须项可不设置，将保持默认值。更多相关变量的含义、格式以及默认值，请参考本项目的`.env.example`文件内的注释）
 
-</details>
+</details> 
 
 ![设置秘密环境变量](https://s1.ax1x.com/2020/07/09/Ue20Cd.png "设置秘密环境变量")
 
